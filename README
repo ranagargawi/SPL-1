@@ -1,0 +1,2 @@
+This was the first assignment I did for the SPL course, we built an order tracking program with C++,it was my first time working with C++.
+We had some problems with an infinite loop after the second iteration but other than that, it works almost perfectly with no memory leaks or compilation errors. 
